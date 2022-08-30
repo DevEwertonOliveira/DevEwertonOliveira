@@ -1,6 +1,8 @@
 ### Hi there!
 ### Hello! I am Ewerton Corrêa ✋
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=DevEwertonOliveira)
+
 ![Ewerton Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEwertonOliveira&show_icons=true&theme=dracula)
 
 ### Techs
