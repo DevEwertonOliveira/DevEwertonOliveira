@@ -7,7 +7,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=DevEwertonOliveira)
 
-### Techs
+# Techs
 <div>
   <div style="display: inline-block"><br/>
   <h2>Frontend</h2>
