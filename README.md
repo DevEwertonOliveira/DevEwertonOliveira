@@ -5,6 +5,7 @@
 
 ![Ewerton Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEwertonOliveira&show_icons=true&theme=dracula)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=DevEwertonOliveira)
 
 # Techs
 <div>
